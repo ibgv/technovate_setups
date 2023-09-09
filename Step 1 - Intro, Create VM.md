@@ -14,7 +14,7 @@ Before you begin, please ensure you have the following prerequisites in place:
 Follow these steps to set up an Ubuntu VM with Docker:
 
 1. **Create an Ubuntu Virtual Machine:**
-   - Ensure you have an Ubuntu VM ready. If not, you can create one using your preferred virtualization platform (e.g., VirtualBox, VMware, Hyper-V, etc.) or a cloud service like AWS, Azure, or GCP.
+   - Ensure you have an Ubuntu VM ready. If not, you can create one using your preferred virtualization platform (e.g., VirtualBox, VMware, Hyper-V, etc.)
 
 2. **Install Docker:**
    - Once your Ubuntu VM is up and running, you'll need to install Docker. 
