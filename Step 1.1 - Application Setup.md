@@ -24,3 +24,4 @@ cd dvws-node
 docker-compose up
 ```
 
+#### Note (Optional) : Installing nmap, zaproxy and nikto will be an added advantage
