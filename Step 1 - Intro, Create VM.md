@@ -33,6 +33,8 @@ Follow these steps to set up an Ubuntu VM with Docker:
      docker --version
      ```
 
+#### Note (Optional) : Having a VM with kali Linux will be added advantage 
+
 Now, you're all set with the necessary environment to participate in our OWASP workshop! If you encounter any issues during the setup process or have any questions, please don't hesitate to reach out to our workshop instructors for assistance.
 
 We look forward to exploring the world of web application security with you during this workshop!
